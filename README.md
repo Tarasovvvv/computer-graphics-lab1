@@ -1,3 +1,4 @@
+[![github-pages](https://img.shields.io/github/issues-pr/Tarasovvvv/computer-graphics-lab1)](https://github.com/Tarasovvvv/computer-graphics-lab1/pulls)
 # Лабораторная 1
 ## Вариант 3
 Требуется составить программу, которая выводит на экран окружность заданного радиуса и с заданным центром,
