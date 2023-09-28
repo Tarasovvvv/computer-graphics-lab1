@@ -1,6 +1,6 @@
 [![](https://img.shields.io/github/issues-pr/Tarasovvvv/computer-graphics-lab1)](https://github.com/Tarasovvvv/computer-graphics-lab1/pulls)
 [![github-pages](https://img.shields.io/github/issues-pr/Tarasovvvv/computer-graphics-lab1)](https://github.com/Tarasovvvv/computer-graphics-lab1/deployments/github-pages)
-![Workflow status](https://img.shields.io/github/actions/workflow/status/Tarasovvvv/computer-graphics-lab1/pages-build-deployment)
+![Workflow status](https://img.shields.io/github/actions/workflow/status/Tarasovvvv/computer-graphics-lab1/pages-build-deployment#1)
 
 # Лабораторная 1
 ## Вариант 3
