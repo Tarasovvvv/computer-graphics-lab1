@@ -1,4 +1,3 @@
-[![](https://img.shields.io/github/issues-pr/Tarasovvvv/computer-graphics-lab1)](https://github.com/Tarasovvvv/computer-graphics-lab1/pulls)
 [![pages-build-deployment](https://github.com/Tarasovvvv/computer-graphics-lab1/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Tarasovvvv/computer-graphics-lab1/actions/workflows/pages/pages-build-deployment)
 
 # Лабораторная 1
@@ -7,3 +6,5 @@
 со вписанным в нее равносторонним заштрихованным треугольником, а затем по
 каждому нажатию клавиши PgDn удваивала бы количество вершин вписанного
 многоугольника, а клавиши PgUp - уменьшала бы в два раза.
+
+![Работа приложения](vid.mp4)
