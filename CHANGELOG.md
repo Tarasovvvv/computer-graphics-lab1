@@ -1,0 +1,18 @@
+- adding workflow1 3
+- adding workflow1 2
+- adding workflow1
+- vid.gif 2
+- vid.gif
+- vid.mp4
+- budgets 5
+- budgets 4
+- budgets 3
+- budgets 2
+- budgets 1
+- вернул ридми
+- удаление readme
+- readme utf-8
+- readme в utf-8
+- новое readme
+- Добавьте файлы проекта.
+- Добавить .gitattributes, .gitignore и README.md.
