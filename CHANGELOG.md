@@ -1,3 +1,4 @@
+- updating readme
 - adding CHANGELOG
 - adding workflow1 3
 - adding workflow1 2

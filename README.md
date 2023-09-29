@@ -1,4 +1,4 @@
-[![pages-build-deployment](https://github.com/Tarasovvvv/computer-graphics-lab1/actions/workflows/pages/Workflow1/badge.svg)](https://github.com/Tarasovvvv/computer-graphics-lab1/actions/workflows/pages/Workflow1)
+[![Builded and Tested](https://github.com/Tarasovvvv/computer-graphics-lab1/actions/workflows/pages/workflow1.yml/badge.svg)](https://github.com/Tarasovvvv/computer-graphics-lab1/actions/workflows/pages/workflow1.yml)
 
 <div class = preview align="center">
   <img src=ForReadMe/preview.png width="100"/>
